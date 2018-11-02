@@ -1,0 +1,19 @@
+body {
+    margin: 50px;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-gap: 10px;
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    height: 50px;
+    border: 10px;
+    border-color: black;
+}
+
